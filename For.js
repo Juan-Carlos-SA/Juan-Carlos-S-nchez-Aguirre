@@ -76,7 +76,7 @@ arregloflecha()
 
 
 
-//WHILE
+/*WHILE
 
 let numr = [
     [9,5,4],
@@ -96,3 +96,4 @@ const perron = () => {
 }
 
 perron();
+*/
