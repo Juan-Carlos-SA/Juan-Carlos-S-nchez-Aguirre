@@ -32,7 +32,7 @@ const info = () => {
   }) */
 
     datos.map((data)=>{
-        console.log(`El nombre es: ${data,nombre}`);
+        console.log(`El nombre es: ${data.nombre} y tiene ${data.edad}`);
         
     })
 }
